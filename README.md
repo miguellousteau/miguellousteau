@@ -1,4 +1,4 @@
-# Miguel Mateus
+# Hi, i'm Miguel Mateus 👋
 
 I'm a Computer Science and Engineering student at Instituto Superior Técnico, with a background in Telecommunications and Informatics Engineering.
 
